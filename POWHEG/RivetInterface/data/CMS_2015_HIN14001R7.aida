@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE aida SYSTEM "http://aida.freehep.org/schemas/3.3/aida.dtd">
+<aida version="3.3">
+<implementation version="1.0" package="HepData"/>
+<dataPointSet name="d01-x01-y01" dimension="2" path="/REF/CMS_2015_HIN14001R7" title="D2(SIG)/DPTDY IN PB/GEV" >
+<dataPoint>
+<measurement value = "3.5" errorPlus = "0.5" errorMinus = "0.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "4.5" errorPlus = "0.5" errorMinus = "0.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "6" errorPlus = "1" errorMinus = "1" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "8" errorPlus = "1" errorMinus = "1" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "10.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "13.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "16.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "19.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "22.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "26" errorPlus = "2" errorMinus = "2" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "30" errorPlus = "2" errorMinus = "2" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "34.5" errorPlus = "2.5" errorMinus = "2.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "40" errorPlus = "3" errorMinus = "3" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "46" errorPlus = "3" errorMinus = "3" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "52.5" errorPlus = "3.5" errorMinus = "3.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "60" errorPlus = "4" errorMinus = "4" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "69" errorPlus = "5" errorMinus = "5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "79" errorPlus = "5" errorMinus = "5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "90.5" errorPlus = "6.5" errorMinus = "6.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "105.5" errorPlus = "8.5" errorMinus = "8.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "123.5" errorPlus = "9.5" errorMinus = "9.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "143" errorPlus = "10" errorMinus = "10" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "163.5" errorPlus = "10.5" errorMinus = "10.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "185" errorPlus = "11" errorMinus = "11" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "208" errorPlus = "12" errorMinus = "12" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "232.5" errorPlus = "12.5" errorMinus = "12.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "258.5" errorPlus = "13.5" errorMinus = "13.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "286" errorPlus = "14" errorMinus = "14" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "315" errorPlus = "15" errorMinus = "15" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "346" errorPlus = "16" errorMinus = "16" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "378.5" errorPlus = "16.5" errorMinus = "16.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "412.5" errorPlus = "17.5" errorMinus = "17.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "449" errorPlus = "19" errorMinus = "19" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "487.5" errorPlus = "19.5" errorMinus = "19.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "527.5" errorPlus = "20.5" errorMinus = "20.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "570" errorPlus = "22" errorMinus = "22" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "615" errorPlus = "23" errorMinus = "23" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "662" errorPlus = "24" errorMinus = "24" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "843" errorPlus = "157" errorMinus = "157" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+</dataPointSet>
+<dataPointSet name="d02-x01-y01" dimension="2" path="/REF/CMS_2015_HIN14001R7" title="D2(SIG)/DPTDY IN PB/GEV" >
+<dataPoint>
+<measurement value = "3.5" errorPlus = "0.5" errorMinus = "0.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "4.5" errorPlus = "0.5" errorMinus = "0.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "6" errorPlus = "1" errorMinus = "1" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "8" errorPlus = "1" errorMinus = "1" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "10.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "13.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "16.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "19.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "22.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "26" errorPlus = "2" errorMinus = "2" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "30" errorPlus = "2" errorMinus = "2" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "34.5" errorPlus = "2.5" errorMinus = "2.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "40" errorPlus = "3" errorMinus = "3" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "46" errorPlus = "3" errorMinus = "3" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "52.5" errorPlus = "3.5" errorMinus = "3.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "60" errorPlus = "4" errorMinus = "4" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "69" errorPlus = "5" errorMinus = "5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "79" errorPlus = "5" errorMinus = "5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "90.5" errorPlus = "6.5" errorMinus = "6.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "105.5" errorPlus = "8.5" errorMinus = "8.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "123.5" errorPlus = "9.5" errorMinus = "9.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "143" errorPlus = "10" errorMinus = "10" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "163.5" errorPlus = "10.5" errorMinus = "10.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "185" errorPlus = "11" errorMinus = "11" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "208" errorPlus = "12" errorMinus = "12" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "232.5" errorPlus = "12.5" errorMinus = "12.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "258.5" errorPlus = "13.5" errorMinus = "13.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "286" errorPlus = "14" errorMinus = "14" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "315" errorPlus = "15" errorMinus = "15" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "346" errorPlus = "16" errorMinus = "16" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "378.5" errorPlus = "16.5" errorMinus = "16.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "412.5" errorPlus = "17.5" errorMinus = "17.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "449" errorPlus = "19" errorMinus = "19" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "487.5" errorPlus = "19.5" errorMinus = "19.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "527.5" errorPlus = "20.5" errorMinus = "20.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "570" errorPlus = "22" errorMinus = "22" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "615" errorPlus = "23" errorMinus = "23" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "662" errorPlus = "24" errorMinus = "24" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "843" errorPlus = "157" errorMinus = "157" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+</dataPointSet>
+<dataPointSet name="d03-x01-y01" dimension="2" path="/REF/CMS_2015_HIN14001R7" title="D2(SIG)/DPTDY IN PB/GEV" >
+<dataPoint>
+<measurement value = "3.5" errorPlus = "0.5" errorMinus = "0.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "4.5" errorPlus = "0.5" errorMinus = "0.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "6" errorPlus = "1" errorMinus = "1" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "8" errorPlus = "1" errorMinus = "1" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "10.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "13.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "16.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "19.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "22.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "26" errorPlus = "2" errorMinus = "2" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "30" errorPlus = "2" errorMinus = "2" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "34.5" errorPlus = "2.5" errorMinus = "2.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "40" errorPlus = "3" errorMinus = "3" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "46" errorPlus = "3" errorMinus = "3" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "52.5" errorPlus = "3.5" errorMinus = "3.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "60" errorPlus = "4" errorMinus = "4" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "69" errorPlus = "5" errorMinus = "5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "79" errorPlus = "5" errorMinus = "5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "90.5" errorPlus = "6.5" errorMinus = "6.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "105.5" errorPlus = "8.5" errorMinus = "8.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "123.5" errorPlus = "9.5" errorMinus = "9.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "143" errorPlus = "10" errorMinus = "10" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "163.5" errorPlus = "10.5" errorMinus = "10.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "185" errorPlus = "11" errorMinus = "11" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "208" errorPlus = "12" errorMinus = "12" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "232.5" errorPlus = "12.5" errorMinus = "12.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "258.5" errorPlus = "13.5" errorMinus = "13.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "286" errorPlus = "14" errorMinus = "14" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "315" errorPlus = "15" errorMinus = "15" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "346" errorPlus = "16" errorMinus = "16" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "378.5" errorPlus = "16.5" errorMinus = "16.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "412.5" errorPlus = "17.5" errorMinus = "17.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "449" errorPlus = "19" errorMinus = "19" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "487.5" errorPlus = "19.5" errorMinus = "19.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "527.5" errorPlus = "20.5" errorMinus = "20.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "570" errorPlus = "22" errorMinus = "22" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "615" errorPlus = "23" errorMinus = "23" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "662" errorPlus = "24" errorMinus = "24" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "843" errorPlus = "157" errorMinus = "157" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+</dataPointSet>
+<dataPointSet name="d04-x01-y01" dimension="2" path="/REF/CMS_2015_HIN14001R7" title="D2(SIG)/DPTDY IN PB/GEV" >
+<dataPoint>
+<measurement value = "3.5" errorPlus = "0.5" errorMinus = "0.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "4.5" errorPlus = "0.5" errorMinus = "0.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "6" errorPlus = "1" errorMinus = "1" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "8" errorPlus = "1" errorMinus = "1" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "10.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "13.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "16.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "19.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "22.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "26" errorPlus = "2" errorMinus = "2" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "30" errorPlus = "2" errorMinus = "2" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "34.5" errorPlus = "2.5" errorMinus = "2.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "40" errorPlus = "3" errorMinus = "3" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "46" errorPlus = "3" errorMinus = "3" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "52.5" errorPlus = "3.5" errorMinus = "3.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "60" errorPlus = "4" errorMinus = "4" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "69" errorPlus = "5" errorMinus = "5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "79" errorPlus = "5" errorMinus = "5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "90.5" errorPlus = "6.5" errorMinus = "6.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "105.5" errorPlus = "8.5" errorMinus = "8.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "123.5" errorPlus = "9.5" errorMinus = "9.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "143" errorPlus = "10" errorMinus = "10" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "163.5" errorPlus = "10.5" errorMinus = "10.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "185" errorPlus = "11" errorMinus = "11" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "208" errorPlus = "12" errorMinus = "12" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "232.5" errorPlus = "12.5" errorMinus = "12.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "258.5" errorPlus = "13.5" errorMinus = "13.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "286" errorPlus = "14" errorMinus = "14" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "315" errorPlus = "15" errorMinus = "15" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "346" errorPlus = "16" errorMinus = "16" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "378.5" errorPlus = "16.5" errorMinus = "16.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "412.5" errorPlus = "17.5" errorMinus = "17.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "449" errorPlus = "19" errorMinus = "19" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "487.5" errorPlus = "19.5" errorMinus = "19.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "527.5" errorPlus = "20.5" errorMinus = "20.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "570" errorPlus = "22" errorMinus = "22" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "615" errorPlus = "23" errorMinus = "23" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "662" errorPlus = "24" errorMinus = "24" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "843" errorPlus = "157" errorMinus = "157" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+</dataPointSet>
+
+ <dataPointSet name="d05-x01-y01" dimension="2" path="/REF/CMS_2015_HIN14001R7" title="D2(SIG)/DPTDY IN PB/GEV" >
+<dataPoint>
+<measurement value = "3.5" errorPlus = "0.5" errorMinus = "0.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "4.5" errorPlus = "0.5" errorMinus = "0.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "6" errorPlus = "1" errorMinus = "1" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "8" errorPlus = "1" errorMinus = "1" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "10.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "13.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "16.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "19.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "22.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "26" errorPlus = "2" errorMinus = "2" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "30" errorPlus = "2" errorMinus = "2" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "34.5" errorPlus = "2.5" errorMinus = "2.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "40" errorPlus = "3" errorMinus = "3" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "46" errorPlus = "3" errorMinus = "3" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "52.5" errorPlus = "3.5" errorMinus = "3.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "60" errorPlus = "4" errorMinus = "4" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "69" errorPlus = "5" errorMinus = "5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "79" errorPlus = "5" errorMinus = "5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "90.5" errorPlus = "6.5" errorMinus = "6.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "105.5" errorPlus = "8.5" errorMinus = "8.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "123.5" errorPlus = "9.5" errorMinus = "9.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "143" errorPlus = "10" errorMinus = "10" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "163.5" errorPlus = "10.5" errorMinus = "10.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "185" errorPlus = "11" errorMinus = "11" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "208" errorPlus = "12" errorMinus = "12" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "232.5" errorPlus = "12.5" errorMinus = "12.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "258.5" errorPlus = "13.5" errorMinus = "13.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "286" errorPlus = "14" errorMinus = "14" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "315" errorPlus = "15" errorMinus = "15" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "346" errorPlus = "16" errorMinus = "16" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "378.5" errorPlus = "16.5" errorMinus = "16.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "412.5" errorPlus = "17.5" errorMinus = "17.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "449" errorPlus = "19" errorMinus = "19" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "487.5" errorPlus = "19.5" errorMinus = "19.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "527.5" errorPlus = "20.5" errorMinus = "20.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "570" errorPlus = "22" errorMinus = "22" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "615" errorPlus = "23" errorMinus = "23" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "662" errorPlus = "24" errorMinus = "24" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "843" errorPlus = "157" errorMinus = "157" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+</dataPointSet>
+<dataPointSet name="d06-x01-y01" dimension="2" path="/REF/CMS_2015_HIN14001R7" title="D2(SIG)/DPTDY IN PB/GEV" >
+<dataPoint>
+<measurement value = "3.5" errorPlus = "0.5" errorMinus = "0.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "4.5" errorPlus = "0.5" errorMinus = "0.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "6" errorPlus = "1" errorMinus = "1" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "8" errorPlus = "1" errorMinus = "1" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "10.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "13.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "16.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "19.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "22.5" errorPlus = "1.5" errorMinus = "1.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "26" errorPlus = "2" errorMinus = "2" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "30" errorPlus = "2" errorMinus = "2" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "34.5" errorPlus = "2.5" errorMinus = "2.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "40" errorPlus = "3" errorMinus = "3" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "46" errorPlus = "3" errorMinus = "3" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "52.5" errorPlus = "3.5" errorMinus = "3.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "60" errorPlus = "4" errorMinus = "4" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "69" errorPlus = "5" errorMinus = "5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "79" errorPlus = "5" errorMinus = "5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "90.5" errorPlus = "6.5" errorMinus = "6.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "105.5" errorPlus = "8.5" errorMinus = "8.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "123.5" errorPlus = "9.5" errorMinus = "9.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "143" errorPlus = "10" errorMinus = "10" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "163.5" errorPlus = "10.5" errorMinus = "10.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "185" errorPlus = "11" errorMinus = "11" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "208" errorPlus = "12" errorMinus = "12" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "232.5" errorPlus = "12.5" errorMinus = "12.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "258.5" errorPlus = "13.5" errorMinus = "13.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "286" errorPlus = "14" errorMinus = "14" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "315" errorPlus = "15" errorMinus = "15" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "346" errorPlus = "16" errorMinus = "16" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "378.5" errorPlus = "16.5" errorMinus = "16.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "412.5" errorPlus = "17.5" errorMinus = "17.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "449" errorPlus = "19" errorMinus = "19" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "487.5" errorPlus = "19.5" errorMinus = "19.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "527.5" errorPlus = "20.5" errorMinus = "20.5" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "570" errorPlus = "22" errorMinus = "22" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "615" errorPlus = "23" errorMinus = "23" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "662" errorPlus = "24" errorMinus = "24" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+<dataPoint>
+<measurement value = "843" errorPlus = "157" errorMinus = "157" />
+<measurement value = "0.0" errorPlus = "0.0" errorMinus = "0.0" />
+</dataPoint>
+</dataPointSet>
+
+</aida>
+
