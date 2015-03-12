@@ -1,0 +1,79 @@
+ 1. Download latest POWHEG package
+
+svn checkout --username anonymous --password anonymous svn://powhegbox.mib.infn.it/trunk/POWHEG-BOX
+
+2. Install LHAPDF or use the one installed in lxplus external 
+
+2a. install LHAPDF
+
+download it from https://lhapdf.hepforge.org/install.html
+
+!!! Usually you will have to download the PDFSets before your built by following the suggestion 
+
+after installation, don't forget to add lhapdf library into your environment (the ones in the setup.sh)
+
+export LHAPDFSYS=/home/maoy/working/GeneratorStudy/CMSSW_5_3_20/src/POWHEG/lhapdf
+export PATH=${PATH}:${LHAPDFSYS}/bin
+export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:${LHAPDFSYS}/lib
+export LHAPATH=/home/maoy/working/GeneratorStudy/CMSSW_5_3_20/src/POWHEG/lhapdf/share/LHAPDF
+
+3. Compile POWHEG for a given process, e.g. Dijet production
+
+cd POWHEG-BOX/Dijet
+
+4. change the Makefile to include the right library and PATH for lhapdf, fortran, et al
+
+make pwhg_main
+
+5.  Run POWHEG to produce the LHE file
+
+cd testrun-lhc 
+
+ modify powheg.input and set the parameters you interested
+
+../pwhg_main
+
+To run batch jobs with many lhe files generation, you can see the script powheg.slurm for SLURM job submission, and bash script to make large productions with different seed runpowheg.sh
+For more details about POWHEG generation, please see here:
+https://twiki.cern.ch/twiki/bin/view/Sandbox/NonPerturbativeCorrectionsForInclusiveJetsUsingPowheg
+http://powhegbox.mib.infn.it/
+
+6. Setting up and running Rivet in CMSSW
+
+6a. Get the RivetInterface:
+git cms-addpkg GeneratorInterface/RivetInterface 
+
+6b. Get the generator config file you want to use, e.g from within the CMSSW working area src/ subdirectory
+wget -P Configuration/GenProduction/python/SevenTeV/ https://raw.githubusercontent.com/cms-sw/genproductions/master/python/SevenTeV/Hadronizer_TuneZ2_7TeV_generic_LHE_pythia_cff.py
+
+6c. Get the Rivet config:
+wget -P Configuration/GenProduction/python/ https://raw.githubusercontent.com/cms-sw/genproductions/master/python/rivet_customize.py 
+
+6d. Compile:
+scram b
+
+6e. Create the config-file with cmsDriver (on one line)
+cmsDriver.py Configuration/GenProduction/python/SevenTeV/Hadronizer_TuneZ2_7TeV_generic_LHE_pythia_cff.py -s GEN --filein pwgevents.lhe
+
+You can chose how many events to generate and what analyses to run by editing the file you created (rivet_cfg.py). By default, the output file is out.yoda and the default analyses are set in Configuration/GenProduction/python/rivet_customize.py. You can adjust both of these by adding the two lines below to rivet_cfg.py.
+
+        process.rivetAnalyzer.AnalysisNames = cms.vstring('CMS_2015_HIN14001R5')
+        process.rivetAnalyzer.CrossSection = cms.double(ivars.sigma)
+        process.rivetAnalyzer.OutputFile = cms.string(ivars.output)
+
+6f. Run generator and analyse the output rivet using cmsRun:
+cmsRun rivet_cfg.py
+
+6g. To make plots of your analysis, you can use the command 
+rivet-mkhtml filename.aida
+
+6h.To convet the aida file into root format
+aida2root file.aida
+
+To run batch jobs with many lhe files, you can see the script rivet.slurm for SLURM job submission, and bash script to loop over all the lhe files rivetana.sh
+
+For More details on how to create your own RIVET analysis, see here:
+https://twiki.cern.ch/twiki/bin/viewauth/CMS/Rivet
+https://rivet.hepforge.org/
+
+
