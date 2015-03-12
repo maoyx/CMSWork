@@ -53,7 +53,7 @@ wget -P Configuration/GenProduction/python/ https://raw.githubusercontent.com/cm
 scram b
 
 6e. Create the config-file with cmsDriver (on one line)
-cmsDriver.py Configuration/GenProduction/python/SevenTeV/Hadronizer_TuneZ2_7TeV_generic_LHE_pythia_cff.py -s GEN --filein pwgevents.lhe
+cmsDriver.py Configuration/GenProduction/python/SevenTeV/Hadronizer_TuneZ2_7TeV_generic_LHE_pythia_cff.py -s GEN --filein pwgevents.lhe --datatier=GEN-SIM-RAW --conditions auto:mc --eventcontent RAWSIM --no_exec -n 10000 --python_filename=rivet_cfg.py --customise=Configuration/GenProduction/rivet_customize.py
 
 You can chose how many events to generate and what analyses to run by editing the file you created (rivet_cfg.py). By default, the output file is out.yoda and the default analyses are set in Configuration/GenProduction/python/rivet_customize.py. You can adjust both of these by adding the two lines below to rivet_cfg.py.
 
